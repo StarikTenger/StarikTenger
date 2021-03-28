@@ -1,4 +1,5 @@
-![](https://get.wallhere.com/photo/night-pixel-art-space-sky-stars-moonlight-horizon-atmosphere-astronomy-star-screenshot-font-outer-space-astronomical-object-293364.jpg)
+![](https://get.wallhere.com/photo/night-pixel-art-space-sky-stars-moonlight-horizon-atmosphere-astronomy-star-screenshot-font-outer-space-astronomical-object-293364.jpg![изображение](https://user-images.githubusercontent.com/48261272/112751285-d5a37f00-8fd5-11eb-82c8-13e6f706fa29.png)
+)
 
 <!--
 **StarikTenger/StarikTenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
