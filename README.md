@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://get.wallhere.com/photo/night-pixel-art-space-sky-stars-moonlight-horizon-atmosphere-astronomy-star-screenshot-font-outer-space-astronomical-object-293364.jpg)
 
 <!--
 **StarikTenger/StarikTenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
