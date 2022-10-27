@@ -1,4 +1,5 @@
-![](https://cdn.discordapp.com/attachments/734430378198302800/825699915103076372/unknown.png)
+![изображение](https://user-images.githubusercontent.com/48261272/198396018-75389248-5816-48ba-9f36-e0a9f38f75fe.png)
+
 
 <!--
 **StarikTenger/StarikTenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
