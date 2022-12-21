@@ -6,8 +6,10 @@
 
 ### Wondering who I am?
 
-🐸 Take a look at my [CV](https://github.com/stariktenger)
+🐸 Take a look at my [**CV**](https://github.com/stariktenger)
 
-🎮 Check out my games at [itch.io](stariktenger.itch.io)
+🎮 Check out my **games** at [itch.io](stariktenger.itch.io)
+
+🌌 View at my demo **shaders** on [shadertoy](https://www.shadertoy.com/user/StarikTenger)
 
 💌 Contact me via *stariktenger@gmail.com* if you wish
