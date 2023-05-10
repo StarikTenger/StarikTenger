@@ -6,7 +6,7 @@
 
 ### Wondering who I am?
 
-🐸 Take a look at my [**CV**](https://github.com/stariktenger)
+🐸 Take a look at my [**CV**](https://github.com/stariktenger/cv)
 
 🎮 Check out my **games** at [itch.io](stariktenger.itch.io)
 
